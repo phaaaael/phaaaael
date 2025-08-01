@@ -75,6 +75,6 @@
 
 ---
 
-<p align="center"><i>“Transformar ideias em código é o que me move.”</i></p>
+<p align="center"><i>“Pense, Tente, Produza, Realize..”</i></p>
 
 ---
