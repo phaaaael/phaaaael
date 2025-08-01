@@ -1,7 +1,7 @@
 <h1 align="center">👨‍💻 Raphael | phaaaael</h1>
 
 <p align="center">
-  <img src="https://chat.openai.com/share/file/000000004d5461f7b3c783d6a20df4ae" alt="Raphael estilizado em frente à Tower Bridge" width="250px"/>
+  <img src="https://sdmntprnorthcentralus.oaiusercontent.com/files/00000000-5d7c-622f-a859-53a0c0380867/raw?se=2025-08-01T13%3A45%3A37Z&sp=r&sv=2024-08-04&sr=b&scid=22405fbe-603f-544c-8c70-1273c85c933a&skoid=60f2aa1f-3685-43ee-be37-d8c8d08d5a64&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2025-07-31T22%3A16%3A25Z&ske=2025-08-01T22%3A16%3A25Z&sks=b&skv=2024-08-04&sig=sitUekbdMMWFHNwQTAKyF3iIyzp6M3mvWthPYqZ/K0k%3D" alt="Raphael estilizado em frente à Tower Bridge" width="250px"/>
 </p>
 
 <p align="center">
