@@ -1,5 +1,9 @@
-
 <h1 align="center">👨‍💻 Raphael | phaaaael</h1>
+
+<p align="center">
+  <img src="https://chat.openai.com/share/file/000000004d5461f7b3c783d6a20df4ae" alt="Raphael estilizado em frente à Tower Bridge" width="250px"/>
+</p>
+
 <p align="center">
   <i>Desenvolvedor Front-End em formação | SENAI SP - Unidade Cajamar</i><br>
   <i>Foco em HTML, CSS e JavaScript</i><br>
@@ -45,20 +49,20 @@
 | Projeto | Descrição | Tecnologias |
 |--------|-----------|-------------|
 | [Portfolio Pessoal](#) | Página pessoal com HTML e CSS | `HTML` `CSS` |
-| [Cadastro de clientes ](#) | Lógica de cadastro de clientes implementada com JavaScript | `HTML` `CSS` `JavaScript` |
+| [Cadastro de clientes](#) | Lógica de cadastro de clientes implementada com JavaScript | `HTML` `CSS` `JavaScript` |
 | [Projeto WebChat](#) | Página de Webchat Responsivo | `HTML` `CSS` |
 
 ---
 
 ## 🎯 Metas para 2025
 
-- [x] Me aprofundar HTML e CSS
-- [x] Iniciar mais técnicas com JavaScript
-- [ ] Publicar pelo menos 5 projetos pessoais
-- [ ] Criar um portfólio totalmente detalhado e responsivo
-- [ ] Aprender Ingles
-- [ ] Contribuir em um projeto open-source
-- [ ] Estudar Medicina.
+- [x] Me aprofundar em HTML e CSS  
+- [x] Iniciar mais técnicas com JavaScript  
+- [ ] Publicar pelo menos 5 projetos pessoais  
+- [ ] Criar um portfólio totalmente detalhado e responsivo  
+- [ ] Aprender Inglês  
+- [ ] Contribuir em um projeto open-source  
+- [ ] Estudar Medicina  
 
 ---
 
