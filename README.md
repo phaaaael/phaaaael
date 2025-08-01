@@ -45,8 +45,8 @@
 | Projeto | Descrição | Tecnologias |
 |--------|-----------|-------------|
 | [Portfolio Pessoal](#) | Página pessoal com HTML e CSS | `HTML` `CSS` |
-| [Jogo da Velha](#) | Lógica do jogo implementada com JavaScript | `HTML` `CSS` `JavaScript` |
-| [Clone Google](#) | Página inicial do Google recriada | `HTML` `CSS` |
+| [Cadastro de clientes ](#) | Lógica de cadastro de clientes implementada com JavaScript | `HTML` `CSS` `JavaScript` |
+| [Projeto WebChat](#) | Página de Webchat Responsivo | `HTML` `CSS` |
 
 ---
 
